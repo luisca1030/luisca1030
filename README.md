@@ -1,3 +1,9 @@
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am Luis Carlos Guzman Almanza</samp>
+</h3>
+<br>
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
