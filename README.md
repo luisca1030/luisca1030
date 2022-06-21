@@ -10,7 +10,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-<details>
+
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -38,7 +38,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-</details>
   
  <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
@@ -70,7 +69,7 @@
 </details>
 
 
-📈 my github stats
+<summary><b> 📈 my github stats </b></summary>
 
 <p align="center">   
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=luisca1030&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisca1030&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
