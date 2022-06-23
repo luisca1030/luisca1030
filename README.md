@@ -19,7 +19,6 @@
 ![chsarpStandard](https://img.shields.io/badge/.NETStandard-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
 ![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
