@@ -15,8 +15,8 @@
   <br/>
 
 ![chsarp](https://img.shields.io/badge/.NET-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
-![chsarpCore](https://img.shields.io/badge/.NET Core-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
-![chsarpStandard](https://img.shields.io/badge/.NET Standard-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
+![chsarpCore](https://img.shields.io/badge/.NETCore-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
+![chsarpStandard](https://img.shields.io/badge/.NETStandard-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
