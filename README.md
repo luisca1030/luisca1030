@@ -71,12 +71,9 @@
  <br/> 
  <br/> 
  <br/>  
- <br/> 
- <br/> 
 
 <summary><b> 📈 My github stats </b></summary>
-
-
+ <br/> 
 
 <div align="center">
 <p align="center">   
