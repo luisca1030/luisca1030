@@ -43,7 +43,7 @@
 
 
   
- <details>
+ <details style="margin-left: -20px;">
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/> 
 
