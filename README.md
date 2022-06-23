@@ -19,27 +19,27 @@
 ![chsarpStandard](https://img.shields.io/badge/.NETStandard-963DAD.svg?&style=SOCIAL&logo=C%20Sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=flat-square&logo=bootstrap)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Microsoft Sql Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Microsoft Sql Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Powershell](http://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff))&nbsp;
+![Powershell](http://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)&nbsp;
 ![GoCD](https://img.shields.io/badge/GoCD-94399E.svg?&style=SOCIAL&logo=GoCD&logoColor=white)&nbsp;
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
